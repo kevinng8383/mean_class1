@@ -4,7 +4,7 @@
 // https://developer.mozilla.org/bm/docs/Web/JavaScript
 var x = 2
 console.log('Hello World ' + x)
-
+ 
 // cac kieu du lieu JS
 // 1. Javascript la ngon ngu kieu dong (dynamic types) -> 1 bien co the thay doi kieu khong mai mai chet 1 kieu INT thi sau nay khong the la STRING, Javascript co the thay doi a = 1; sau do co the la a = "String"
 // Trong class khong co  thuoc tinh  va Phuong Thuc
